@@ -15,10 +15,11 @@ Project is created with:
 
 
 ## Setup
-Install the [Dotnet 5.0103](https://dotnet.microsoft.com/) framework for C#.
+Install the [Dotnet 5.0103](https://dotnet.microsoft.com/) framework for C# and download the DecimalEX nuget package.
 ```
 $ gitclone https://github.com/SugarBlank/HieloCalculator/
 $ cd ../HieloCalculator
+$ dotnet add package DecimalMath.DecimalEx --version 1.0.2
 $ dotnet run
 ```
 ## License
