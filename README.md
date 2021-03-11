@@ -1,5 +1,5 @@
 # HieloCalculator
-C# CLI calculator that can do unit conversions, some trigonometry functions, and standard functions, as precise as possible with the use of Decimals instead of floats or doubles.
+A C# CLI calculator that can do unit conversions, some trigonometry functions, and standard functions, as precise as possible with the use of Decimals instead of floats or doubles.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/64178604/110724285-80006180-81e3-11eb-89d2-ed5fe38bc5ea.png)
